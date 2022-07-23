@@ -1,0 +1,20 @@
+C:\Users\happy\Downloads\TaskManagement2022-master (1)\TaskManagement2022-master\Library.Standard.ToDo\bin\Debug\netstandard2.0\Library.Standard.ToDo.deps.json
+C:\Users\happy\Downloads\TaskManagement2022-master (1)\TaskManagement2022-master\Library.Standard.ToDo\bin\Debug\netstandard2.0\Library.Standard.ToDo.dll
+C:\Users\happy\Downloads\TaskManagement2022-master (1)\TaskManagement2022-master\Library.Standard.ToDo\bin\Debug\netstandard2.0\Library.Standard.ToDo.pdb
+C:\Users\happy\Downloads\TaskManagement2022-master (1)\TaskManagement2022-master\Library.Standard.ToDo\obj\Debug\netstandard2.0\Library.Standard.ToDo.csproj.AssemblyReference.cache
+C:\Users\happy\Downloads\TaskManagement2022-master (1)\TaskManagement2022-master\Library.Standard.ToDo\obj\Debug\netstandard2.0\Library.Standard.ToDo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\happy\Downloads\TaskManagement2022-master (1)\TaskManagement2022-master\Library.Standard.ToDo\obj\Debug\netstandard2.0\Library.Standard.ToDo.AssemblyInfoInputs.cache
+C:\Users\happy\Downloads\TaskManagement2022-master (1)\TaskManagement2022-master\Library.Standard.ToDo\obj\Debug\netstandard2.0\Library.Standard.ToDo.AssemblyInfo.cs
+C:\Users\happy\Downloads\TaskManagement2022-master (1)\TaskManagement2022-master\Library.Standard.ToDo\obj\Debug\netstandard2.0\Library.Standard.ToDo.csproj.CoreCompileInputs.cache
+C:\Users\happy\Downloads\TaskManagement2022-master (1)\TaskManagement2022-master\Library.Standard.ToDo\obj\Debug\netstandard2.0\Library.Standard.ToDo.dll
+C:\Users\happy\Downloads\TaskManagement2022-master (1)\TaskManagement2022-master\Library.Standard.ToDo\obj\Debug\netstandard2.0\Library.Standard.ToDo.pdb
+C:\Users\happy\Downloads\TaskManagement2022-masterfinal\TaskManagement2022-master\Library.Standard.ToDo\bin\Debug\netstandard2.0\Library.Standard.ToDo.deps.json
+C:\Users\happy\Downloads\TaskManagement2022-masterfinal\TaskManagement2022-master\Library.Standard.ToDo\bin\Debug\netstandard2.0\Library.Standard.ToDo.dll
+C:\Users\happy\Downloads\TaskManagement2022-masterfinal\TaskManagement2022-master\Library.Standard.ToDo\bin\Debug\netstandard2.0\Library.Standard.ToDo.pdb
+C:\Users\happy\Downloads\TaskManagement2022-masterfinal\TaskManagement2022-master\Library.Standard.ToDo\obj\Debug\netstandard2.0\Library.Standard.ToDo.csproj.AssemblyReference.cache
+C:\Users\happy\Downloads\TaskManagement2022-masterfinal\TaskManagement2022-master\Library.Standard.ToDo\obj\Debug\netstandard2.0\Library.Standard.ToDo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\happy\Downloads\TaskManagement2022-masterfinal\TaskManagement2022-master\Library.Standard.ToDo\obj\Debug\netstandard2.0\Library.Standard.ToDo.AssemblyInfoInputs.cache
+C:\Users\happy\Downloads\TaskManagement2022-masterfinal\TaskManagement2022-master\Library.Standard.ToDo\obj\Debug\netstandard2.0\Library.Standard.ToDo.AssemblyInfo.cs
+C:\Users\happy\Downloads\TaskManagement2022-masterfinal\TaskManagement2022-master\Library.Standard.ToDo\obj\Debug\netstandard2.0\Library.Standard.ToDo.csproj.CoreCompileInputs.cache
+C:\Users\happy\Downloads\TaskManagement2022-masterfinal\TaskManagement2022-master\Library.Standard.ToDo\obj\Debug\netstandard2.0\Library.Standard.ToDo.dll
+C:\Users\happy\Downloads\TaskManagement2022-masterfinal\TaskManagement2022-master\Library.Standard.ToDo\obj\Debug\netstandard2.0\Library.Standard.ToDo.pdb

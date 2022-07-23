@@ -1,0 +1,5 @@
+C:\Users\happy\Downloads\TaskManagement2022-master (1)\TaskManagement2022-master\TaskManagement2022\obj\Debug\net6.0\TaskManagement2022.csproj.AssemblyReference.cache
+C:\Users\happy\Downloads\TaskManagement2022-master (1)\TaskManagement2022-master\TaskManagement2022\obj\Debug\net6.0\TaskManagement2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\happy\Downloads\TaskManagement2022-master (1)\TaskManagement2022-master\TaskManagement2022\obj\Debug\net6.0\TaskManagement2022.AssemblyInfoInputs.cache
+C:\Users\happy\Downloads\TaskManagement2022-master (1)\TaskManagement2022-master\TaskManagement2022\obj\Debug\net6.0\TaskManagement2022.AssemblyInfo.cs
+C:\Users\happy\Downloads\TaskManagement2022-master (1)\TaskManagement2022-master\TaskManagement2022\obj\Debug\net6.0\TaskManagement2022.csproj.CoreCompileInputs.cache
